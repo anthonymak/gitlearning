@@ -21,7 +21,6 @@ Table dimensions:
     ## [1] 5417098      28
     
 
-\
 
 \
 
